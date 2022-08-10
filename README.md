@@ -33,7 +33,7 @@ The Inception Score is a metric for automatically evaluating  the quality of ima
 
     The foremost step in the process of virtual fitting is to extract foreground from background. The algorithm works well on varying light intensities provided that the background has got rid of presence of highly projecting bodies. For reliable extraction, before edge detection, colour clustering by k means is performed. K-means clustering basically converts the image into clusters by quantifying the visual difference according to luminosity and chromaticity as shown in the Fig. 1(a). By doing so, the background is perfectly grouped to a separate cluster. Pre-processing of image is the delicate process which decides the reliability of further output. Hence, after these, pre-processing the image such as to remove small objects and morphological dilation is done.
 
-        ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+        ![alt text](https://github.com/sjatin050/Virtual-Trial-Room/blob/main/ssim1.PNG?raw=true)
 
 
 - ###	Extraction Of  Human Silhouette
